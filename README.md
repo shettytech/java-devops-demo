@@ -4,7 +4,7 @@ This is a simple Java project built with Maven to demonstrate DevOps CI/CD using
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ava-devops-demo/
 ├── src/
@@ -16,7 +16,7 @@ ava-devops-demo/
 
 ---
 
-## 🚀 Technologies Used
+## Technologies Used
 
 - Java 17
 - Maven
